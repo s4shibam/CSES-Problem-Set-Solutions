@@ -1,11 +1,11 @@
 {
-    "files.exclude": {
-        "**/.exe": true
-    },
-    "cSpell.words": [
-        "CSES"
-    ],
-    "files.associations": {
-        "iostream": "cpp"
-    },
+  "files.exclude": {
+    "**/*.exe": true,
+    "**/*.class": true
+  },
+
+  "cSpell.words": ["CSES"],
+  "files.associations": {
+    "iostream": "cpp"
+  }
 }
