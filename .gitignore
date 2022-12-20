@@ -1,4 +1,4 @@
 # Exclude
 
-.vscode/
+/.vscode/
 *.exe
