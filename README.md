@@ -9,6 +9,6 @@
 
 ### Reason for making this Repository?
 
-- The simple reaason for making this repository is to take a record of my progress or code which I had submitted on CSES.
+- The simple reason for making this repository is to take a record of my progress or code which I had submitted on CSES.
 
 Thank You!

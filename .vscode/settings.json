@@ -2,4 +2,7 @@
     "files.exclude": {
         "**/.exe": true
     },
+    "cSpell.words": [
+        "CSES"
+    ],
 }
